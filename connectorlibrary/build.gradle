@@ -36,6 +36,6 @@ dependencies {
     compile 'com.squareup.okhttp3:okhttp:3.10.0'
     compile 'org.cryptonode.jncryptor:jncryptor:1.2.0'
 
-    implementation 'com.github.keove:ParserAndroid:1.1'
+    implementation 'com.github.keove:ParserAndroid:1.3'
 
 }
